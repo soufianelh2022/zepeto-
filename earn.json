@@ -2,14 +2,14 @@
 	"ADS":
 		   {
 		
-			"rewarde_type":"admob",
-			"inter_type":"admob",
+			"rewarde_type":"appodeal",
+			"inter_type":"appodeal",
 			
 			
 			
 			"unity_id":"4292105",
 			
-			"appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
+			"appodeal_app_key" : "f688df150d1f8c91ab803c0eaac66e7e0aecc6996fd944e6",
 			   
          	"ironsource_id" : "11c7e1165",
 			   
